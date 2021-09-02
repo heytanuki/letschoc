@@ -1,4 +1,3 @@
-# Let's Choc / 40% Cocoa split
+# Let's Choc / Snackbar
 
-A split Planck style board with chocs.
-
+Put some cool information here
